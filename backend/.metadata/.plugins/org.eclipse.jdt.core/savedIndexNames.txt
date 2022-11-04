@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\.metadata\.plugins\org.eclipse.jdt.core
+2970585698.index
+1865797976.index
+1536518773.index
+2814199481.index

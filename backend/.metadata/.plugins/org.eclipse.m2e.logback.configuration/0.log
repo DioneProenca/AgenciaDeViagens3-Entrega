@@ -1,0 +1,27 @@
+2022-11-02 15:29:23,204 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-02 15:32:01,486 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-initial\pom.xml.
+2022-11-02 15:32:02,111 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/main/java
+2022-11-02 15:32:02,113 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/test/java
+2022-11-02 15:32:03,052 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-11-02 15:32:03,057 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-02 15:32:03,316 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-initial\pom.xml.
+2022-11-02 15:32:03,420 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/main/java
+2022-11-02 15:32:03,420 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/test/java
+2022-11-02 15:32:03,870 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-11-02 15:32:04,072 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-complete\pom.xml.
+2022-11-02 15:32:04,356 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/main/java
+2022-11-02 15:32:04,359 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/test/java
+2022-11-02 15:32:04,558 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-02 15:32:04,560 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-02 15:32:04,612 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-complete\pom.xml.
+2022-11-02 15:32:04,699 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/main/java
+2022-11-02 15:32:04,706 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/test/java
+2022-11-02 15:32:04,819 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-11-02 15:32:05,217 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-02 15:32:05,218 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-complete\src\main\resources
+2022-11-02 15:32:05,220 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-02 15:32:05,221 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-complete\src\test\resources
+2022-11-02 15:32:05,410 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-02 15:32:05,412 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-initial\src\main\resources
+2022-11-02 15:32:05,413 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-02 15:32:05,414 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dione\Desktop\Naldo e Dih\Ativ5\Atividade-5-main\backend\gs-maven-initial\src\test\resources
